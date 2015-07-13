@@ -37,6 +37,7 @@ module.exports = function(grunt) {
             },
             dist_js: {
                 src: [
+                    'src/*.js',
                     'src/**/*.js',
                 ],
                 dest: 'kkb.framework.restful.js'
