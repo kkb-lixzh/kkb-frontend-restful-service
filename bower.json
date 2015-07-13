@@ -1,0 +1,20 @@
+{
+  "name": "kkb-framework",
+  "main": "kkb.framework.restful.js",
+  "compoentsDirectiory": "lib/",
+  "devDependencies": {
+    "kkb-framework-core": "https://github.com/kkb-lixzh/kkb-frontend-framework.git",
+    "angular-resource": "*",
+    "angular-cookies": "*",
+    "angular-mocks": "~1.4.2"
+  },
+  "ignore": [
+    "src",
+    "package.json",
+    "bower_components",
+    "tests",
+    "node_modules",
+    "lib",
+    "dist"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "name": "kkb-frontend-restful-service-framework",
+  "version": "1.0.0",
+  "description": "开课吧前端Restful框架",
+  "main": "kkb.restful.framework.js",
+  "scripts": {
+  },
+  "author": "xzli@kaikeba.com",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "1.4.1",
+    "grunt-bower-task": "0.4.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-compress": "~0.4.0",
+    "grunt-contrib-concat": ">=0.4.0",
+    "grunt-contrib-copy": ">=0.4.0",
+    "grunt-contrib-csslint": ">=0.4.0",
+    "grunt-contrib-cssmin": ">=0.4.0",
+    "grunt-contrib-imagemin": ">=0.4.0",
+    "grunt-contrib-jshint": "~0.10.0",
+    "grunt-contrib-nodeunit": "~0.4.1",
+    "grunt-contrib-qunit": ">=0.4.0",
+    "grunt-contrib-requirejs": "~0.4.0",
+    "grunt-contrib-uglify": "~0.5.0",
+    "grunt-contrib-watch": "~0.4.0",
+    "grunt-karma": "^0.11.2",
+    "jasmine": "^2.3.1",
+    "jasmine-core": "^2.3.4",
+    "karma-chrome-launcher": "^0.2.0",
+    "karma-jasmine": "^0.3.6"
+  }
+}
